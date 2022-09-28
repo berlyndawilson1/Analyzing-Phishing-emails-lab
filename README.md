@@ -15,3 +15,17 @@ Project consists of analyzing several components of an email, and what happens w
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
+
+<h2>Learning Process:</h2>
+
+<p align="center">
+Raw email content: <br/>
+<img src="https://imgur.com/NTVAYq6.png" height="80%" width="80%" alt="Email Headers"/>
+<h2>Background</h2>
+Here you can see an email from "Dicks.Sporting Goods" was sent to my personal email address indicating "I've been chosen" The images however have not been displayed.  
+<br />
+<p align="center">
+ Actual email: <br/>
+<img src="https://imgur.com/X1gzBS4.png" height="80%" width="80%" alt="Email from my Gmail account"/>
+<br />
+<br />
